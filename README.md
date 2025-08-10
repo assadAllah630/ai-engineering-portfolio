@@ -1,132 +1,133 @@
-# AI Engineering Portfolio
+# 🤖 AI Engineering Portfolio
 
 **Assad Allah Alebrahim** - AI Engineer & Business Intelligence Analyst
 
-> 5+ years experience in database optimization, business intelligence, and AI-powered automation
+A comprehensive collection of AI and Machine Learning projects showcasing expertise in RAG systems, LLM fine-tuning, and agentic AI development.
 
 ## 🚀 Featured Projects
 
-### [ChromaDB Similarity Search](./projects/chromadb-similarity-search/)
-**Advanced Vector Database Implementation**
+### 🍽️ [Food Recommendation Chatbot](./projects/food-recommendation-chatbot/)
+**Advanced RAG-powered food recommendation system with IBM WatsonX.ai integration**
 
-- **Semantic Search**: Book recommendations and employee talent matching
-- **Metadata Filtering**: Complex queries with multiple criteria
-- **Combined Search**: Hybrid semantic + metadata filtering
-- **Real-world Applications**: HR recruitment, content discovery, recommendation systems
+- **🔍 Vector Similarity Search**: Semantic food matching using ChromaDB
+- **🧠 AI-Powered Intelligence**: IBM Granite-3-3-8b-instruct model integration
+- **🎯 Advanced Filtering**: Cuisine type, calorie limits, dietary preferences
+- **💬 Interactive Chatbot**: Natural language food queries with contextual responses
+- **📊 Comprehensive Database**: 100+ food items with rich metadata
 
-**Tech Stack**: ChromaDB, SentenceTransformers, Python, Vector Embeddings
+**Technologies**: Python, ChromaDB, IBM WatsonX.ai, Sentence Transformers, RAG Architecture
 
-**Key Features**:
-- Book similarity search with themes, genres, and ratings
-- Employee skill-based matching and department filtering
-- Advanced query patterns and performance optimization
-- Production-ready setup with comprehensive documentation
-
-[View Project →](./projects/chromadb-similarity-search/)
+[View Project →](./projects/food-recommendation-chatbot/)
 
 ---
+
+## 🛠️ Technical Expertise
+
+### **AI & Machine Learning**
+- **RAG Systems**: Retrieval-Augmented Generation with vector databases
+- **LLM Integration**: OpenAI, IBM WatsonX.ai, and custom model fine-tuning
+- **Vector Search**: ChromaDB, Pinecone, and similarity search algorithms
+- **NLP & Embeddings**: Sentence transformers, semantic search, text processing
+
+### **Data Engineering**
+- **Database Optimization**: Performance tuning and query optimization
+- **ETL Pipelines**: Data extraction, transformation, and loading
+- **Business Intelligence**: Analytics, reporting, and data visualization
+- **Big Data**: Hadoop, Spark, and distributed computing
+
+### **Software Development**
+- **Python**: Advanced Python development with AI/ML libraries
+- **Web Development**: Full-stack development with modern frameworks
+- **API Development**: RESTful APIs and microservices architecture
+- **DevOps**: CI/CD, Docker, cloud deployment (AWS, Azure, GCP)
+
+## 📊 Professional Experience
+
+### **AI Engineer & Business Intelligence Analyst**
+**CogentSoftTech** | 5+ years experience
+
+- **Database Optimization**: Improved query performance by 60% across enterprise systems
+- **AI-Powered Automation**: Developed intelligent automation solutions reducing manual work by 80%
+- **Business Intelligence**: Created comprehensive analytics dashboards for executive decision-making
+- **RAG Systems**: Built production-ready retrieval-augmented generation systems
 
 ## 🎯 Core Competencies
 
-### **AI & Machine Learning**
-- **RAG Systems**: Advanced retrieval-augmented generation
-- **LLM Fine-tuning**: Custom model optimization
-- **Agentic AI**: Autonomous AI agent development
-- **Vector Databases**: ChromaDB, Pinecone, Weaviate
-- **Embedding Models**: SentenceTransformers, OpenAI, Cohere
+### **AI/ML Development**
+- Large Language Model (LLM) integration and fine-tuning
+- Vector database design and optimization
+- Natural Language Processing (NLP) pipelines
+- Machine Learning model development and deployment
+
+### **Data Engineering**
+- Database design and optimization
+- ETL pipeline development
+- Data warehousing and analytics
+- Performance tuning and monitoring
 
 ### **Business Intelligence**
-- **Data Analytics**: Power BI, Tableau, SQL
-- **Database Optimization**: Oracle, SQL Server, PostgreSQL
-- **ETL Processes**: Data pipeline development
-- **Performance Tuning**: Query optimization and indexing
+- Dashboard development and visualization
+- KPI tracking and reporting
+- Predictive analytics
+- Data-driven decision support
 
-### **Automation & Integration**
-- **Workflow Automation**: Business process optimization
-- **API Development**: RESTful services and integrations
-- **Cloud Platforms**: AWS, Azure, Google Cloud
-- **DevOps**: CI/CD, Docker, Kubernetes
-
-## 📊 Industry Experience
-
-### **Telecommunications**
-- Customer analytics and churn prediction
-- Network performance optimization
-- Billing system automation
-- Real-time data processing
-
-### **Enterprise Solutions**
-- Large-scale database administration
-- Business intelligence dashboards
-- Process automation workflows
-- Data governance and compliance
-
-## 🛠️ Technical Skills
+## 🔧 Technology Stack
 
 ### **Programming Languages**
-- Python (AI/ML, Data Science)
-- SQL (Database Management)
-- JavaScript (Web Development)
-- Java (Enterprise Applications)
+- **Python**: NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch
+- **SQL**: Advanced querying, optimization, and database design
+- **JavaScript/TypeScript**: Full-stack web development
+- **Java**: Enterprise application development
 
-### **AI/ML Frameworks**
-- TensorFlow, PyTorch
-- Scikit-learn, Pandas, NumPy
-- LangChain, LlamaIndex
-- ChromaDB, Pinecone
+### **AI/ML Libraries**
+- **LLM Frameworks**: LangChain, LlamaIndex, Transformers
+- **Vector Databases**: ChromaDB, Pinecone, Weaviate
+- **NLP**: spaCy, NLTK, Sentence Transformers
+- **Cloud AI**: OpenAI API, IBM WatsonX.ai, Azure Cognitive Services
 
-### **Database Technologies**
-- Oracle Database
-- SQL Server
-- PostgreSQL
-- MongoDB
-- Vector Databases
+### **Data & Analytics**
+- **Databases**: PostgreSQL, MySQL, MongoDB, Redis
+- **Big Data**: Apache Spark, Hadoop, Kafka
+- **BI Tools**: Tableau, Power BI, Looker
+- **Cloud Platforms**: AWS, Azure, Google Cloud Platform
 
-### **Cloud & DevOps**
-- AWS (EC2, S3, Lambda, RDS)
-- Azure (Functions, SQL Database)
-- Docker, Kubernetes
-- Git, CI/CD Pipelines
+## 📈 Key Achievements
 
-## 📈 Project Highlights
+- **60% Performance Improvement**: Database optimization across enterprise systems
+- **80% Automation Reduction**: AI-powered solutions for manual processes
+- **Production RAG Systems**: Deployed multiple retrieval-augmented generation systems
+- **Enterprise Analytics**: Built comprehensive BI solutions for Fortune 500 companies
 
-### **Vector Database Solutions**
-- **ChromaDB Implementation**: Advanced similarity search for content and talent matching
-- **RAG Systems**: Knowledge base integration with LLMs
-- **Embedding Pipelines**: Custom embedding model development
+## 🌟 Project Highlights
 
-### **Business Intelligence**
-- **Executive Dashboards**: Real-time KPI monitoring
-- **Predictive Analytics**: Customer behavior modeling
-- **Data Warehousing**: ETL pipeline optimization
+### **RAG-Powered Chatbots**
+- Intelligent conversational agents with context-aware responses
+- Vector similarity search for accurate information retrieval
+- Multi-modal AI integration (text, image, audio)
 
-### **Process Automation**
-- **Workflow Optimization**: 40% efficiency improvement
-- **API Integration**: Multi-platform data synchronization
-- **Performance Tuning**: 60% query speed improvement
+### **LLM Fine-tuning**
+- Custom model training for domain-specific applications
+- Parameter-efficient fine-tuning techniques
+- Model optimization for production deployment
 
-## 🎓 Education & Certifications
+### **Agentic AI Systems**
+- Autonomous AI agents for complex task execution
+- Multi-agent coordination and communication
+- Intelligent workflow automation
 
-- **Bachelor's Degree**: Computer Science
-- **Certifications**: 
-  - Oracle Database Administrator
-  - Microsoft SQL Server
-  - AWS Solutions Architect
-  - Google Cloud Professional
+## 📞 Contact & Connect
 
-## 📞 Contact & Collaboration
-
+- **LinkedIn**: [Assad Allah Alebrahim](https://www.linkedin.com/in/assad-allah-alebrahim/)
+- **Twitter**: [@a93445_allah](https://twitter.com/a93445_allah)
 - **GitHub**: [@assadAllah630](https://github.com/assadAllah630)
-- **LinkedIn**: [Assad Allah Alebrahim](https://linkedin.com/in/assadallah)
-- **Email**: assadAllah630@github.com
+- **Email**: Available upon request
 
-## 🤝 Open for Opportunities
+## 📄 License
 
-- **Full-time positions** in AI/ML engineering
-- **Consulting projects** for database optimization
-- **Collaboration** on open-source AI projects
-- **Speaking engagements** on AI and data science
+This portfolio is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-*Building intelligent solutions that drive business value through AI, data, and automation.*
+⭐ **Star this repository** if you find the projects helpful!
+
+*"Transforming data into intelligence, one algorithm at a time."*
