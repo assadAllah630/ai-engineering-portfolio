@@ -1,0 +1,298 @@
+[
+    {
+        "food_id": 1,
+        "food_name": "Apple Pie",
+        "food_description": "A classic dessert made with a buttery, flaky crust filled with tender, spiced apples.",
+        "food_calories_per_serving": 320,
+        "food_nutritional_factors": {
+            "carbohydrates": "42g",
+            "protein": "2g",
+            "fat": "16g"
+        },
+        "food_ingredients": [
+            "Apples",
+            "Flour",
+            "Butter",
+            "Sugar",
+            "Cinnamon",
+            "Nutmeg"
+        ],
+        "food_health_benefits": "Rich in antioxidants and dietary fiber",
+        "cooking_method": "Baking",
+        "cuisine_type": "American",
+        "food_features": {
+            "taste": "sweet",
+            "texture": "crisp and tender",
+            "appearance": "golden brown",
+            "preparation": "baked",
+            "serving_type": "hot"
+        }
+    },
+    {
+        "food_id": 2,
+        "food_name": "Chocolate Cake",
+        "food_description": "A rich, moist cake made with high-quality cocoa powder and frosted with creamy chocolate icing.",
+        "food_calories_per_serving": 450,
+        "food_nutritional_factors": {
+            "carbohydrates": "58g",
+            "protein": "5g",
+            "fat": "22g"
+        },
+        "food_ingredients": [
+            "Flour",
+            "Sugar",
+            "Cocoa Powder",
+            "Eggs",
+            "Butter",
+            "Vanilla Extract"
+        ],
+        "food_health_benefits": "Contains antioxidants from cocoa",
+        "cooking_method": "Baking",
+        "cuisine_type": "American",
+        "food_features": {
+            "taste": "sweet and rich",
+            "texture": "moist and fluffy",
+            "appearance": "dark and frosted",
+            "preparation": "baked",
+            "serving_type": "room temperature"
+        }
+    },
+    {
+        "food_id": 3,
+        "food_name": "Tiramisu",
+        "food_description": "An Italian dessert made with layers of coffee-soaked ladyfingers and mascarpone cheese, dusted with cocoa powder.",
+        "food_calories_per_serving": 240,
+        "food_nutritional_factors": {
+            "carbohydrates": "28g",
+            "protein": "4g",
+            "fat": "12g"
+        },
+        "food_ingredients": [
+            "Ladyfingers",
+            "Coffee",
+            "Mascarpone Cheese",
+            "Sugar",
+            "Cocoa Powder",
+            "Eggs"
+        ],
+        "food_health_benefits": "Source of calcium and protein",
+        "cooking_method": "No-bake",
+        "cuisine_type": "Italian",
+        "food_features": {
+            "taste": "sweet and creamy",
+            "texture": "smooth and soft",
+            "appearance": "layered and dusted",
+            "preparation": "assembled",
+            "serving_type": "chilled"
+        }
+    },
+    {
+        "food_id": 4,
+        "food_name": "Crème Brûlée",
+        "food_description": "A creamy custard dessert topped with a layer of hardened caramelized sugar.",
+        "food_calories_per_serving": 300,
+        "food_nutritional_factors": {
+            "carbohydrates": "30g",
+            "protein": "5g",
+            "fat": "18g"
+        },
+        "food_ingredients": [
+            "Cream",
+            "Eggs",
+            "Sugar",
+            "Vanilla",
+            "Milk"
+        ],
+        "food_health_benefits": "Good source of calcium and protein",
+        "cooking_method": "Baking",
+        "cuisine_type": "French",
+        "food_features": {
+            "taste": "sweet and creamy",
+            "texture": "smooth and silky",
+            "appearance": "creamy with caramelized top",
+            "preparation": "baked",
+            "serving_type": "chilled"
+        }
+    },
+    {
+        "food_id": 5,
+        "food_name": "Pad Thai",
+        "food_description": "A stir-fried rice noodle dish with eggs, tofu, shrimp, and peanuts, flavored with tamarind and fish sauce.",
+        "food_calories_per_serving": 380,
+        "food_nutritional_factors": {
+            "carbohydrates": "45g",
+            "protein": "18g",
+            "fat": "16g"
+        },
+        "food_ingredients": [
+            "Rice Noodles",
+            "Shrimp",
+            "Tofu",
+            "Eggs",
+            "Peanuts",
+            "Bean Sprouts",
+            "Tamarind",
+            "Fish Sauce"
+        ],
+        "food_health_benefits": "Good source of protein and healthy fats",
+        "cooking_method": "Stir-frying",
+        "cuisine_type": "Thai",
+        "food_features": {
+            "taste": "sweet, sour, and savory",
+            "texture": "chewy noodles with crisp vegetables",
+            "appearance": "colorful with various textures",
+            "preparation": "stir-fried",
+            "serving_type": "hot"
+        }
+    },
+    {
+        "food_id": 6,
+        "food_name": "Sushi Roll",
+        "food_description": "Fresh fish and vegetables wrapped in seasoned rice and nori seaweed.",
+        "food_calories_per_serving": 200,
+        "food_nutritional_factors": {
+            "carbohydrates": "35g",
+            "protein": "8g",
+            "fat": "2g"
+        },
+        "food_ingredients": [
+            "Sushi Rice",
+            "Nori",
+            "Fresh Fish",
+            "Cucumber",
+            "Avocado",
+            "Wasabi",
+            "Soy Sauce"
+        ],
+        "food_health_benefits": "Rich in omega-3 fatty acids and lean protein",
+        "cooking_method": "No-cook assembly",
+        "cuisine_type": "Japanese",
+        "food_features": {
+            "taste": "fresh and umami",
+            "texture": "soft rice with firm fish",
+            "appearance": "neatly rolled and sliced",
+            "preparation": "assembled",
+            "serving_type": "room temperature"
+        }
+    },
+    {
+        "food_id": 7,
+        "food_name": "Margherita Pizza",
+        "food_description": "Classic Italian pizza with tomato sauce, mozzarella cheese, and fresh basil.",
+        "food_calories_per_serving": 285,
+        "food_nutritional_factors": {
+            "carbohydrates": "35g",
+            "protein": "12g",
+            "fat": "12g"
+        },
+        "food_ingredients": [
+            "Pizza Dough",
+            "Tomato Sauce",
+            "Mozzarella Cheese",
+            "Fresh Basil",
+            "Olive Oil",
+            "Garlic"
+        ],
+        "food_health_benefits": "Good source of calcium and lycopene",
+        "cooking_method": "Baking",
+        "cuisine_type": "Italian",
+        "food_features": {
+            "taste": "savory and fresh",
+            "texture": "crispy crust with melted cheese",
+            "appearance": "red, white, and green",
+            "preparation": "baked",
+            "serving_type": "hot"
+        }
+    },
+    {
+        "food_id": 8,
+        "food_name": "Chicken Tikka Masala",
+        "food_description": "Tender chicken pieces in a creamy, spiced tomato-based curry sauce.",
+        "food_calories_per_serving": 420,
+        "food_nutritional_factors": {
+            "carbohydrates": "15g",
+            "protein": "28g",
+            "fat": "22g"
+        },
+        "food_ingredients": [
+            "Chicken",
+            "Yogurt",
+            "Tomatoes",
+            "Cream",
+            "Spices",
+            "Onions",
+            "Garlic",
+            "Ginger"
+        ],
+        "food_health_benefits": "High in protein and anti-inflammatory spices",
+        "cooking_method": "Simmering",
+        "cuisine_type": "Indian",
+        "food_features": {
+            "taste": "spicy and creamy",
+            "texture": "tender chicken in rich sauce",
+            "appearance": "orange-red with cream",
+            "preparation": "simmered",
+            "serving_type": "hot"
+        }
+    },
+    {
+        "food_id": 9,
+        "food_name": "Greek Salad",
+        "food_description": "Fresh vegetables with feta cheese, olives, and olive oil dressing.",
+        "food_calories_per_serving": 180,
+        "food_nutritional_factors": {
+            "carbohydrates": "8g",
+            "protein": "6g",
+            "fat": "14g"
+        },
+        "food_ingredients": [
+            "Cucumber",
+            "Tomatoes",
+            "Red Onion",
+            "Feta Cheese",
+            "Kalamata Olives",
+            "Olive Oil",
+            "Oregano"
+        ],
+        "food_health_benefits": "Rich in antioxidants and healthy fats",
+        "cooking_method": "No-cook",
+        "cuisine_type": "Mediterranean",
+        "food_features": {
+            "taste": "fresh and tangy",
+            "texture": "crisp vegetables with creamy cheese",
+            "appearance": "colorful and fresh",
+            "preparation": "assembled",
+            "serving_type": "cold"
+        }
+    },
+    {
+        "food_id": 10,
+        "food_name": "Tacos",
+        "food_description": "Corn tortillas filled with seasoned meat, vegetables, and salsa.",
+        "food_calories_per_serving": 250,
+        "food_nutritional_factors": {
+            "carbohydrates": "25g",
+            "protein": "15g",
+            "fat": "12g"
+        },
+        "food_ingredients": [
+            "Corn Tortillas",
+            "Ground Beef",
+            "Lettuce",
+            "Tomatoes",
+            "Cheese",
+            "Salsa",
+            "Sour Cream"
+        ],
+        "food_health_benefits": "Good source of protein and fiber",
+        "cooking_method": "Grilling/Assembling",
+        "cuisine_type": "Mexican",
+        "food_features": {
+            "taste": "spicy and savory",
+            "texture": "soft tortillas with various fillings",
+            "appearance": "colorful and messy",
+            "preparation": "assembled",
+            "serving_type": "hot"
+        }
+    }
+]
