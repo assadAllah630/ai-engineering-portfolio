@@ -1,0 +1,25 @@
+# AI-Powered Food Recommendation Chatbot Dependencies
+# Core AI and Machine Learning Libraries
+
+# Numerical Computing
+numpy==2.3.1
+scipy==1.16.0
+
+# Vector Database and Similarity Search
+chromadb==1.0.12
+
+# Natural Language Processing and Embeddings
+sentence-transformers==4.1.0
+
+# IBM WatsonX.ai Integration
+ibm-watsonx-ai==1.3.24
+
+# Additional Dependencies for Enhanced Functionality
+typing-extensions>=4.0.0
+requests>=2.25.0
+json5>=0.9.0
+
+# Development and Testing (Optional)
+pytest>=7.0.0
+black>=22.0.0
+flake8>=4.0.0
