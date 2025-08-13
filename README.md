@@ -1,133 +1,137 @@
-# 🤖 AI Engineering Portfolio
+# AI Engineering Portfolio
 
-**Assad Allah Alebrahim** - AI Engineer & Business Intelligence Analyst
+<div align="center">
 
-A comprehensive collection of AI and Machine Learning projects showcasing expertise in RAG systems, LLM fine-tuning, and agentic AI development.
+![AI Engineer](https://img.shields.io/badge/AI-Engineer-blue?style=for-the-badge&logo=artificial-intelligence)
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-orange?style=for-the-badge&logo=machine-learning)
+![Business Intelligence](https://img.shields.io/badge/Business-Intelligence-green?style=for-the-badge&logo=chart-line)
+![Database Admin](https://img.shields.io/badge/Database-Administrator-red?style=for-the-badge&logo=database)
+
+**AI Engineer & Business Intelligence Analyst with 5+ years of experience in database optimization, business intelligence, and AI-powered automation.**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/assad-allah-alebrahim)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter)](https://twitter.com/a93445_allah)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:assad.allah@cogentsoftech.com)
+
+</div>
+
+---
+
+## 🎯 About Me
+
+I'm **Assad Allah Alebrahim**, an AI Engineer and Business Intelligence Analyst with over 5 years of experience in:
+
+- 🤖 **AI & Machine Learning**: RAG systems, LLM fine-tuning, agentic AI development
+- 📊 **Business Intelligence**: Power BI dashboards, data analytics, predictive modeling
+- 🗄️ **Database Administration**: Oracle & SQL Server optimization, data migration
+- 📈 **Marketing Analytics**: Customer segmentation, campaign optimization, automation
+- 🔧 **Technical Leadership**: Project management, team collaboration, solution architecture
 
 ## 🚀 Featured Projects
 
-### 🍽️ [Food Recommendation Chatbot](./projects/food-recommendation-chatbot/)
-**Advanced RAG-powered food recommendation system with IBM WatsonX.ai integration**
+### 🎥 YouTube Video Summarizer & Q&A Bot
+- **AI-Powered Video Analysis**: Automatic transcript extraction and summarization
+- **Intelligent Q&A System**: Semantic search with FAISS vector database
+- **IBM WatsonX Integration**: Powered by Llama-3-2-3B model
+- **Gradio Web Interface**: Clean, intuitive user experience
+- **RAG Architecture**: Retrieval-Augmented Generation for accurate responses
 
-- **🔍 Vector Similarity Search**: Semantic food matching using ChromaDB
-- **🧠 AI-Powered Intelligence**: IBM Granite-3-3-8b-instruct model integration
-- **🎯 Advanced Filtering**: Cuisine type, calorie limits, dietary preferences
-- **💬 Interactive Chatbot**: Natural language food queries with contextual responses
-- **📊 Comprehensive Database**: 100+ food items with rich metadata
+### 🤖 AI Agent & Agentic RAG Systems
+- **Advanced RAG Implementation**: Multi-modal retrieval systems with semantic search
+- **Agentic AI Development**: Autonomous agents with reasoning capabilities
+- **LLM Fine-tuning**: Custom model training and optimization
+- **Vector Database Integration**: FAISS, Pinecone, and Weaviate implementations
 
-**Technologies**: Python, ChromaDB, IBM WatsonX.ai, Sentence Transformers, RAG Architecture
+### 📊 Business Intelligence & Analytics
+- **Power BI Dashboards**: Interactive data visualization solutions
+- **Data Pipeline Automation**: ETL processes and data warehousing
+- **Predictive Analytics**: Machine learning models for business forecasting
+- **Real-time Analytics**: Streaming data processing and monitoring
 
-[View Project →](./projects/food-recommendation-chatbot/)
+### 🗄️ Database Administration
+- **Oracle Database Optimization**: Performance tuning and maintenance
+- **SQL Server Management**: Enterprise database solutions
+- **Data Migration Projects**: Legacy system modernization
+- **Backup & Recovery**: Disaster recovery and business continuity
 
----
+### 📈 Marketing Analytics & Automation
+- **Customer Segmentation**: ML-powered audience analysis
+- **Campaign Performance Tracking**: ROI optimization and reporting
+- **Marketing Automation**: Workflow optimization and process improvement
+- **A/B Testing Frameworks**: Statistical analysis and optimization
 
-## 🛠️ Technical Expertise
+## 🛠️ Technical Skills
 
-### **AI & Machine Learning**
-- **RAG Systems**: Retrieval-Augmented Generation with vector databases
-- **LLM Integration**: OpenAI, IBM WatsonX.ai, and custom model fine-tuning
-- **Vector Search**: ChromaDB, Pinecone, and similarity search algorithms
-- **NLP & Embeddings**: Sentence transformers, semantic search, text processing
+### 🤖 AI & Machine Learning
+- **Languages**: Python, R, SQL
+- **Frameworks**: TensorFlow, PyTorch, Scikit-learn, LangChain
+- **Models**: GPT, BERT, Llama, Custom LLMs
+- **Vector Databases**: FAISS, Pinecone, Weaviate, Chroma
+- **Cloud AI**: AWS SageMaker, Azure ML, IBM WatsonX
 
-### **Data Engineering**
-- **Database Optimization**: Performance tuning and query optimization
-- **ETL Pipelines**: Data extraction, transformation, and loading
-- **Business Intelligence**: Analytics, reporting, and data visualization
-- **Big Data**: Hadoop, Spark, and distributed computing
-
-### **Software Development**
-- **Python**: Advanced Python development with AI/ML libraries
-- **Web Development**: Full-stack development with modern frameworks
-- **API Development**: RESTful APIs and microservices architecture
-- **DevOps**: CI/CD, Docker, cloud deployment (AWS, Azure, GCP)
-
-## 📊 Professional Experience
-
-### **AI Engineer & Business Intelligence Analyst**
-**CogentSoftTech** | 5+ years experience
-
-- **Database Optimization**: Improved query performance by 60% across enterprise systems
-- **AI-Powered Automation**: Developed intelligent automation solutions reducing manual work by 80%
-- **Business Intelligence**: Created comprehensive analytics dashboards for executive decision-making
-- **RAG Systems**: Built production-ready retrieval-augmented generation systems
-
-## 🎯 Core Competencies
-
-### **AI/ML Development**
-- Large Language Model (LLM) integration and fine-tuning
-- Vector database design and optimization
-- Natural Language Processing (NLP) pipelines
-- Machine Learning model development and deployment
-
-### **Data Engineering**
-- Database design and optimization
-- ETL pipeline development
-- Data warehousing and analytics
-- Performance tuning and monitoring
-
-### **Business Intelligence**
-- Dashboard development and visualization
-- KPI tracking and reporting
-- Predictive analytics
-- Data-driven decision support
-
-## 🔧 Technology Stack
-
-### **Programming Languages**
-- **Python**: NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch
-- **SQL**: Advanced querying, optimization, and database design
-- **JavaScript/TypeScript**: Full-stack web development
-- **Java**: Enterprise application development
-
-### **AI/ML Libraries**
-- **LLM Frameworks**: LangChain, LlamaIndex, Transformers
-- **Vector Databases**: ChromaDB, Pinecone, Weaviate
-- **NLP**: spaCy, NLTK, Sentence Transformers
-- **Cloud AI**: OpenAI API, IBM WatsonX.ai, Azure Cognitive Services
-
-### **Data & Analytics**
-- **Databases**: PostgreSQL, MySQL, MongoDB, Redis
+### 📊 Data & Analytics
+- **BI Tools**: Power BI, Tableau, QlikView
+- **Databases**: Oracle, SQL Server, PostgreSQL, MySQL
 - **Big Data**: Apache Spark, Hadoop, Kafka
-- **BI Tools**: Tableau, Power BI, Looker
-- **Cloud Platforms**: AWS, Azure, Google Cloud Platform
+- **ETL Tools**: Apache Airflow, SSIS, Talend
+- **Analytics**: Statistical Analysis, Predictive Modeling, A/B Testing
 
-## 📈 Key Achievements
+### 🗄️ Database Administration
+- **Oracle**: Performance Tuning, RMAN, Data Guard
+- **SQL Server**: Always On, Maintenance Plans, Indexing
+- **Monitoring**: OEM, SQL Server Management Studio
+- **Automation**: PowerShell, Python Scripts, Scheduled Jobs
 
-- **60% Performance Improvement**: Database optimization across enterprise systems
-- **80% Automation Reduction**: AI-powered solutions for manual processes
-- **Production RAG Systems**: Deployed multiple retrieval-augmented generation systems
-- **Enterprise Analytics**: Built comprehensive BI solutions for Fortune 500 companies
+### ☁️ Cloud & DevOps
+- **Cloud Platforms**: AWS, Azure, Google Cloud
+- **Containers**: Docker, Kubernetes
+- **CI/CD**: GitHub Actions, Azure DevOps
+- **Monitoring**: Prometheus, Grafana, ELK Stack
 
-## 🌟 Project Highlights
+## 📈 Professional Experience
 
-### **RAG-Powered Chatbots**
-- Intelligent conversational agents with context-aware responses
-- Vector similarity search for accurate information retrieval
-- Multi-modal AI integration (text, image, audio)
+### 🏢 Current Role
+**AI Engineer & BI Analyst** at **CogentSoftTech**
+- Leading AI/ML initiatives and business intelligence projects
+- Developing RAG systems and agentic AI solutions
+- Optimizing database performance and data pipelines
+- Mentoring junior developers and data analysts
 
-### **LLM Fine-tuning**
-- Custom model training for domain-specific applications
-- Parameter-efficient fine-tuning techniques
-- Model optimization for production deployment
+### 🎓 Education & Certifications
+- **Bachelor's Degree** in Computer Science
+- **Microsoft Certified**: Azure Data Scientist Associate
+- **Oracle Certified**: Database Administrator
+- **IBM Certified**: Watson AI Specialist
 
-### **Agentic AI Systems**
-- Autonomous AI agents for complex task execution
-- Multi-agent coordination and communication
-- Intelligent workflow automation
+## 🌟 Key Achievements
 
-## 📞 Contact & Connect
+- **🚀 AI Innovation**: Developed advanced RAG systems reducing response time by 60%
+- **📊 Data Excellence**: Built BI dashboards serving 10,000+ users across enterprise
+- **🗄️ Performance**: Optimized database queries improving performance by 300%
+- **📈 Business Impact**: Automated marketing workflows saving 40+ hours weekly
+- **🤝 Leadership**: Led cross-functional teams delivering 15+ successful projects
 
-- **LinkedIn**: [Assad Allah Alebrahim](https://www.linkedin.com/in/assad-allah-alebrahim/)
-- **Twitter**: [@a93445_allah](https://twitter.com/a93445_allah)
-- **GitHub**: [@assadAllah630](https://github.com/assadAllah630)
-- **Email**: Available upon request
+## 📞 Let's Connect
 
-## 📄 License
+I'm always interested in:
+- 🤝 **Collaboration** on AI/ML projects
+- 💼 **Consulting** opportunities
+- 📚 **Knowledge sharing** and mentorship
+- 🚀 **Innovation** in emerging technologies
 
-This portfolio is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+**Get in touch:**
+- 📧 **Email**: [assad.allah@cogentsoftech.com](mailto:assad.allah@cogentsoftech.com)
+- 💼 **LinkedIn**: [Assad Allah Alebrahim](https://www.linkedin.com/in/assad-allah-alebrahim)
+- 🐦 **Twitter**: [@a93445_allah](https://twitter.com/a93445_allah)
+- 🏢 **Company**: [CogentSoftTech](https://cogentsoftech.com)
 
 ---
 
-⭐ **Star this repository** if you find the projects helpful!
+<div align="center">
 
-*"Transforming data into intelligence, one algorithm at a time."*
+**Built with ❤️ by [Assad Allah Alebrahim](https://github.com/assadAllah630)**
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/assadAllah630)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-green?style=flat&logo=portfolio)](https://github.com/assadAllah630/ai-engineering-portfolio)
+
+</div>
